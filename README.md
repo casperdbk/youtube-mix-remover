@@ -9,7 +9,9 @@ Tired of YouTube automatically playing entire playlists when you just want to wa
 Say goodbye to forced playlists and enjoy YouTube your way! 🎉
 
 ## How to use:
-TODO
+Works for chromium-based browsers
+Currently the only option to use the extension is to download the zip file and import it locally to the browser.
+Once downloaded, head over to the extensions tab, select the button responsible for importing an extension from a folder, and enjoy.
 
 ## If you enjoy using the program feel free to [buy me a coffee](https://buymeacoffee.com/casperdbk)
 
