@@ -3,11 +3,21 @@
   "name": "YouTube Mix Remover",
   "description": "Automatically delete the mix parameter in Youtube URL",
   "version": "1.0",
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "storage"],
   "background": {
     "service_worker": "background.js"
   },
   "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
     "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   }
 }
