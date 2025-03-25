@@ -11,6 +11,8 @@ Say goodbye to forced playlists and enjoy YouTube your way! 🎉
 How to use:
 TODO
 
+If you enjoy using the program feel free to [buy me a coffee](https://buymeacoffee.com/casperdbk)
+
 ## 📜 License  
 This project is licensed under **CC BY-ND 4.0**.  
 You can use and share it as long as you **credit the author**. **Modifications are not allowed**.  
